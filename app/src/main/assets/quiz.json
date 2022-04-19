@@ -1,0 +1,60 @@
+{
+	"items": [
+		{
+			"question": "What is the largest planet in the solar system?",
+			"answers": [
+				{
+					"text": "Jupiter",
+					"value": 1
+				},
+				{
+					"text": "Earth",
+					"value": 0
+				},
+				{
+					"text": "Saturn",
+					"value": 0
+				},
+				{
+					"text": "Sun",
+					"value": 0
+				}
+			]
+		},
+		{
+			"question": "What is the smallest planet in the solar system?",
+			"answers": [
+				{
+					"text": "Saturn",
+					"value": 0
+				},
+				{
+					"text": "Coruscant",
+					"value": 0
+				},
+				{
+					"text": "Earth",
+					"value": 0
+				},
+				{
+					"text": "Mercury",
+					"value": 1
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"max": 0,
+			"text": "1"
+		},
+		{
+			"max": 3,
+			"text": "2"
+		},
+		{
+			"max": 6,
+			"text": "3"
+		}
+	]
+}

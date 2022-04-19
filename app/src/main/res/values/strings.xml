@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Monster Slot</string>
+
+    <string name="facebook_app_id">996102087687828</string>
+    <string name="facebook_client_token">7cbf1e14069fe192af718b0f507a8695</string>
+    <string name="default_notification_channel_id">1</string>
+
+    <string name="log_token">92fbcbf5-b08f-4d5a-8da5-7bcf0f2467ea</string>
+    <string name="DOMAIN">gaplay.net</string>
+</resources>

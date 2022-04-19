@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/spashFragment">
+
+    <fragment
+        android:id="@+id/spashFragment"
+        android:name="com.uvenal.slot.screens.SpashFragment"
+        android:label="fragment_spash"
+        tools:layout="@layout/fragment_spash" >
+        <action
+            android:id="@+id/action_spashFragment_to_htmlFragment"
+            app:destination="@id/htmlFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/htmlFragment"
+        android:name="com.uvenal.slot.screens.WebViewFragment"
+        android:label="fragment_html"
+        tools:layout="@layout/fragment_webview" />
+</navigation>

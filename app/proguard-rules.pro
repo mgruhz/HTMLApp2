@@ -1,0 +1,6 @@
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+-dontwarn org.conscript.**
+-dontwarn com.appsflyer.**
+-dontwarn com.bun.supplier.IIdentifierListener
